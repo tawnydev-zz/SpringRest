@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.kevin.SpringHATEOAS.controller;
+package com.kevin.SpringREST.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.kevin.SpringHATEOAS.services.HelloWorld;
+import com.kevin.SpringREST.services.HelloWorld;
 
 /**
  * @author kevin

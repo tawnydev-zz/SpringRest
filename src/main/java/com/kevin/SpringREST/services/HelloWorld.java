@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.kevin.SpringHATEOAS.services;
+package com.kevin.SpringREST.services;
 
 /**
  * @author kevin

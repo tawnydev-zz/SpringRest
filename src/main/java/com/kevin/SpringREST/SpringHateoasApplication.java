@@ -1,4 +1,4 @@
-package com.kevin.SpringHATEOAS;
+package com.kevin.SpringREST;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
