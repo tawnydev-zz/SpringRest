@@ -1,4 +1,4 @@
-package com.kevin.SpringHATEOAS;
+package com.kevin.SpringREST;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
